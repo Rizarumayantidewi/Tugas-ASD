@@ -106,7 +106,7 @@ public class ProgramAntrian {
         while(loopX==0){
             System.out.println("\n");
             System.out.println("==================================");
-            System.out.println("====== Antrian bang mangkiri =====");
+            System.out.println("====== Antrian Bank Mangkiri =====");
             System.out.println("==================================");
             System.out.println("\n");
             System.out.println("1. Tambah Antrian");
